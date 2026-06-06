@@ -132,8 +132,8 @@ Stream_Bat_Repo/
 ├── raw_code/
 │   ├── Stream_Bat.py               # English source code
 │   └── Stream_Bat_Español.py       # Spanish source code
-├──Strean_Bat.zip                   # English version of the program
-├──Strean_Bat_Esp.zip               # Spanish version of the program
+├──Stream_Bat.zip                   # English version of the program
+├──Stream_Bat_Esp.zip               # Spanish version of the program
 └── README.md
 ```
 
